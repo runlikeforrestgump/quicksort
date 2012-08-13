@@ -21,7 +21,7 @@ echo -e "\nRuby"
 time ruby qs_ruby/quicksort.rb &> /dev/null
 
 echo -e "\n==========================================="
-echo -e "\nLisp"
+echo -e "\nLisp (MIT Scheme)"
 cd qs_lisp
 time mit-scheme < quicksort.scm &> /dev/null
 cd ..

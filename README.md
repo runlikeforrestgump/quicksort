@@ -14,24 +14,36 @@ As an exercise, I implemented the quicksort algorithm in the following programmi
 
 * C
 
-        codeblock
+        real    0m0.002s
+        user    0m0.004s
+        sys     0m0.000s
 
 * Java
 
-        codeblock
+        real    0m0.246s
+        user    0m0.196s
+        sys     0m0.052s
 
 * Lisp (MIT Scheme)
 
-        codeblock
+        real    0m0.703s
+        user    0m0.644s
+        sys     0m0.064s
 
 * Python
 
-        codeblock
+        real    0m0.021s
+        user    0m0.012s
+        sys     0m0.008s
 
 * Ruby
 
-        codeblock
+        real    0m0.011s
+        user    0m0.000s
+        sys     0m0.008s
 
 * x86 Assembly (GAS syntax)
 
-        codeblock
+        real    0m0.002s
+        user    0m0.004s
+        sys     0m0.000s
